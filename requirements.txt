@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.25
+plotly>=5.0
+kaggle>=1.5
+matplotlib>=3.7    
+seaborn>=0.12      
